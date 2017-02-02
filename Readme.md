@@ -1,7 +1,7 @@
 # Личный проект «Глейси»
 
 * Студент: [Natalia Popova](https://up.htmlacademy.ru/htmlcss/16/user/267843).
-* Наставник: `Неизвестно`.
+* Наставник: `Keksobot`.
 
 ---
 
