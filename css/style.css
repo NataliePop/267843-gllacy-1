@@ -651,7 +651,9 @@ textarea.label-hide + label {
 
 }
 
-
+a.logo-style:first-child {
+  margin:0;
+}
 
 .logo-style:first-child:hover {
 
@@ -800,6 +802,7 @@ li:hover .main-navigation-sub {
   color: #323232;
 
   border: 0;
+  font-weight:400;
 
 }
 
@@ -820,7 +823,7 @@ li:hover .main-navigation-sub {
   background-color: #d07058;
 
   border-radius: 0;
-
+  color: white;
   box-shadow: none;
 
 }
