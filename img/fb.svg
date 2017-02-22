@@ -1,38 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
-  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
-<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        ">
-   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-      <rdf:Description rdf:about=""/>
-   </rdf:RDF>
-</x:xmpmeta>
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                           
-<?xpacket end="w"?></metadata>
-<defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="31.375" height="31.41" viewBox="0 0 31.375 31.41">
+  <defs>
     <style>
       .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
         opacity: 0.8;
       }
     </style>
   </defs>
-  <image id="ФБ" class="cls-1" width="32" height="32" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAQAAADZc7J/AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAAHdElNRQfgCxQBOg6x6NmyAAAB9ElEQVRIx6WVz0tUURTHP+/61OYZigpR6qJgmASFFrpVkXJRiD+G1i0Ct4ktRKFoE5giCpbgXyCoUYsIKsqFiBG4kjKMAUl9kxQIj6yF9WZa3PnRvDlvZpz5bt5953y/33vOubx3jTgimmgnxAUsXI7ZZ5tNHIloZkUq6CNMKCse4z1LbHjDhqeCHkY4hz+2eMQXPwOLca6TD3+ZY1EyqOUxzXnlGs+ZIKaXKhGqYrZgOQwy6h3iPVoF4jZv+MZPIMjdjMxNIjxNG9ygR5CvMpYslJOs7AgbRHULAYbFQhdScgmVuiYTGKReIJywq8dMCxZBgdFFkIgJhMUdHPQBdTDjU4NBmClFiIti2k08rRxtXMMwaRdTNj8Sq9/YQIA6gVXHJVPsDvpTqzXWgH7ui7yQopFC4Pd9NJicFRPVxDgGoJxADgPLTA0rE6sc0gvAVR7mKk3xq6AW/OAo9koyiCp2SjL4rPhQgtwmqrD5WLTBa/01rhQp/8MzbfCKr0UZvOBQG7hMEj+1/Ih5SP9U73Arq8AIADU0CPI4w/qOSBoopuk8xf5TLCeFGjHGeFegOM50Up55sShuM0RZHrnDA9bTr96r7TKjXPEVu7zkCUf/hwxh/G0M0M0ZT/Q7b1nmwEs2fM6vnBaCnKcaFwebT+zKR/0PNk90rJdKnZMAAAAASUVORK5CYII="/>
+  <path id="ФБ" class="cls-1" d="M144.865,2352.23a15.69,15.69,0,1,1-15.692,15.69A15.687,15.687,0,0,1,144.865,2352.23Zm0.773,24.99v-9.29h2.743l0.285-3.09h-3.028l0-1.86c0-.89.085-1.26,1.367-1.26h1.764v-3.42h-2.792c-3.294,0-4.082,1.54-4.082,4.34v2.2h-1.889v3.09H141.9v9.29h3.738Z" transform="translate(-129.188 -2352.22)"/>
 </svg>
